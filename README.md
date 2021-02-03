@@ -45,7 +45,7 @@
     
     
 
-  ![01-equipe_produto](https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo/blob/main/img/01-equipe_produto.jpg)
+<img align= center src= https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo/blob/main/img/01-equipe_produto.jpg alt= imagem terminal>
 
 
 
