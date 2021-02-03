@@ -42,10 +42,14 @@
     mês. Some cada coluna para obter o total de vendas por vendedor no
     último mês. Sua saída tabular deve incluir esses totais cruzados à direitas
     das linhas totalizadas e na parte inferior das colunas totalizadas.
-    
-    
 
-<img align="center" src="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo/blob/main/img/01-equipe_produto.jpg" alt="imagem terminal">
+
+
+<p align="center">
+    <img src="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo/blob/main/img/01-equipe_produto.jpg" alt="imagem terminal">
+</p>
+
+
 
 
 
@@ -73,10 +77,12 @@
    de pontos.
    d) Que questão recebeu o total de pontos mais baixo? Exiba a questão e o
    total de pontos.
-   
-   
 
-![02-enquete_web](https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo/blob/main/img/02-enquete_web.jpg)
+
+
+<p align="center">
+    <img src="https://github.com/marcosbarker/Exerc.-de-Prog.-Arranjo/blob/main/img/02-enquete_web.jpg" alt="imagem terminal">
+</p>
 
 
 
